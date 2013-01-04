@@ -1,2 +1,6 @@
 isbn ChangeLog
 ========================================================================
+
+* QA-Release 2009-10-17 = 2.0.1 @thekid
+* PHP 5 migration = 2.0.0 @kiesel 
+* Initial release 2005-06-10 = 1.0.0 @thekid
